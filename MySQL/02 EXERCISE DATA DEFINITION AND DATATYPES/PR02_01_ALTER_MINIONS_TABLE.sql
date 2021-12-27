@@ -1,0 +1,2 @@
+ALTER TABLE `minions`.`towns` 
+CHANGE COLUMN `town_id` `id` INT NOT NULL AUTO_INCREMENT 
