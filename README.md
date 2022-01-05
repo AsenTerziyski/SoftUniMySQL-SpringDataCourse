@@ -1,2 +1,2 @@
 # SoftUniMySQL-SpringDataCourse
-MyCertificates
+My homeworks, exercises, projects etc.
